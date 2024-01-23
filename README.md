@@ -1,6 +1,9 @@
 # keypad_STM32_C_Library
 This repository contains the library for using a 4x4 matrix keyboard for the STM32F4xx platform. It is written in C language and uses modularization techniques, software deboncing and non-blocking delay functions.
 
+This library allows you to create multiple instances of a keypad and connect them to the microcontroller.
+It also allows you to customize the keyboard characters.
+
 # Installation procedure
 
 1. Download the repository files
